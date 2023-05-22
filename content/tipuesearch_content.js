@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '41039138 凃家豐  GUJIAFENG', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '41039138\xa0', 'tags': '', 'url': 'About.html'}]};
